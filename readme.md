@@ -51,6 +51,9 @@ Escribir un programa que almace la cadena de caracteres **contraseña** en una v
 
 Escribir un programa que pida al usuario un número entero y muestre por pantalla si es un número primo o no
 
+## Ejercicio 11
+
+Escribir un programa que pida al usuario una palabra y luego muestre por pantalla una a una las letras de la palabra introducida empezando por la ultima
 
 
 
