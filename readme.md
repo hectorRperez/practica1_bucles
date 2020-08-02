@@ -55,6 +55,9 @@ Escribir un programa que pida al usuario un número entero y muestre por pantall
 
 Escribir un programa que pida al usuario una palabra y luego muestre por pantalla una a una las letras de la palabra introducida empezando por la ultima
 
+## Ejercicio 12
+
+Escribir un programa en el que se se pregunte al usuario por una frase y una letra, y muestre por pantalla el número de veces que aparece la letra en la frase
 
 
 
