@@ -47,6 +47,9 @@ Escribir un programa que almace la cadena de caracteres **contraseña** en una v
 
 - Utilizo el modulo *getpass* para ocultar la contraseña por terminal
 
+## Ejercicio 10
+
+Escribir un programa que pida al usuario un número entero y muestre por pantalla si es un número primo o no
 
 
 
