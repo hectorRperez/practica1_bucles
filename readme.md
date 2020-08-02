@@ -31,4 +31,6 @@ Escribir un programa que pida al usuario un número entero y muestre por pantall
 ![ejercicio 6](./ejercicio_6.png)
 
 
+## Ejercicio 7
 
+Escribir un programa que muestre por pantalla la tabla de multiplicar del 1 al 10
