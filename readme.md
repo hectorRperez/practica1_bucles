@@ -41,3 +41,14 @@ Escribir un programa que pida al usuario un número entero y muestre por pantall
 
 ![ejercicio 8](./ejercicio_8.png)
 
+## Ejercicio 9 
+
+Escribir un programa que almace la cadena de caracteres **contraseña** en una variable, pregunte al usuario por la contraseña hasta que introduzca la contraseña correcta
+
+- Utilizo el modulo *getpass* para ocultar la contraseña por terminal
+
+
+
+
+
+
