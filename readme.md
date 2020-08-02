@@ -24,5 +24,11 @@ ___
 
 Escribir un programa que pregunte al usuario una cantidad a invertir, el interés anual y el número de años, y muestre por pantalla el capital obtenido en la inversión cada año que dura la inversión
 
+## Ejercicio 6
+
+Escribir un programa que pida al usuario un número entero y muestre por pantalla un triangulo rectangulo como el de más abajo, de altura el número introducido
+
+![ejercicio 6](./ejercicio_6.png)
+
 
 
